@@ -1,4 +1,4 @@
-## ESTRUTURA DE DADOS - PRÓXIMAS ENTREGAS
+## ENGENHARIA DE SOFTWARE
 
 Esse documento links úteis para a disciplina de Engenharia de Software
 
