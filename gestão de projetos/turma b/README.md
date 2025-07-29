@@ -1,6 +1,6 @@
 ## GESTÃO DE PROJETOS TECNOLÓGICOS
 
-Esse documento links úteis para a disciplina de Engenharia de Software
+Esse documento links úteis para a disciplina de Gestão de Projetos Tecnológicos
 
 #### Links gerais
 - [Link para o formulário de informações do projeto](https://forms.gle/xBiWNADBtr6pzobVA)
