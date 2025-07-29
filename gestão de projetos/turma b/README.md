@@ -1,4 +1,4 @@
-## GESTÃO DE PROJETOS TECNOLÓGICOS
+## GESTÃO DE PROJETOS TECNOLÓGICOS - TURMA B
 
 Esse documento links úteis para a disciplina de Gestão de Projetos Tecnológicos
 
