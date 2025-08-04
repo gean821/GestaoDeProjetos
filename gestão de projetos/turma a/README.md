@@ -5,4 +5,5 @@ Esse documento links úteis para a disciplina de Gestão de Projetos Técnológi
 #### Links gerais
 - [Link para o formulário de informações do projeto](https://forms.gle/6FYnswDrG8jQ95Ly8)
 
-- [Slides Aula 01](https://docs.google.com/presentation/d/1M1g5eS2YG7VBj4Rzxv2Jl5gw9E4kMo78wzMX0-YGYm4/edit?usp=sharing)
+### Atividades
+- [Termo de Abertura do Projeto](https://docs.google.com/document/d/1KHxIIk8rwePVvjbybt8u-1mU5BGDDoq4/edit?usp=sharing&rtpof=true&sd=true)
