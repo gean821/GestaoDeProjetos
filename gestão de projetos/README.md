@@ -3,6 +3,8 @@
 Esse documento links úteis para a disciplina de Gestão de Projetos Tecnológicos
 
 ### Links gerais
+- [Exemplo de Matriz CSD](https://docs.google.com/document/d/1d4NsqHVYYsly7TjaNV5_5Ka3uO2cvdTfplTTNW5NyFU/edit?usp=sharing)
+
 
 ### Conteúdos Adicionais
 - [Design Thinking (metodologia para desenvolvimento de projetos)](https://www.youtube.com/watch?v=GDUNZIYjRr8&pp=ygUPZGVzaWduIHRoaW5raW5n0gcJCa0JAYcqIYzv)
