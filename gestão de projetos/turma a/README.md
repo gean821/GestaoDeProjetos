@@ -1,8 +1,6 @@
 ## GESTÃO DE PROJETOS TECNOLÓGICOS - TURMA A
 
-Esse documento links úteis para a disciplina de Gestão de Projetos Técnológicos
-
-#### Links gerais
+### Links gerais
 - [Link para o formulário de informações do projeto](https://forms.gle/6FYnswDrG8jQ95Ly8)
 
 ### Atividades
@@ -10,4 +8,4 @@ Esse documento links úteis para a disciplina de Gestão de Projetos Técnológi
 
 - [Atividade 02 - Análise de Mercado](https://forms.gle/Fr4x2uUMVrx7eHXq5) (até 07/08)
 
-- [Atividade 02 - Matriz CSD (Certezas, Suposições e Dúvidas)](https://forms.gle/ECpGWcsz3iDW2xWcA) (até 12/08)
+- [Atividade 03 - Matriz CSD (Certezas, Suposições e Dúvidas)](https://forms.gle/ECpGWcsz3iDW2xWcA) (até 12/08)

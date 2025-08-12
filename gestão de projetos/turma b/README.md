@@ -1,11 +1,9 @@
 ## GESTÃO DE PROJETOS TECNOLÓGICOS - TURMA B
 
-Esse documento links úteis para a disciplina de Gestão de Projetos Tecnológicos
-
-#### Links gerais
+### Links gerais
 - [Link para o formulário de informações do projeto](https://forms.gle/xBiWNADBtr6pzobVA)
 
-#### Atividades
+### Atividades
 - [Atividade 01 - Termo de Abertura do Projeto](https://docs.google.com/document/d/1KHxIIk8rwePVvjbybt8u-1mU5BGDDoq4/edit?usp=sharing&rtpof=true&sd=true) (até 04/08)
 
 - Atividade 02 - Análise de Mercado (preenchida na planilha) (até 05/08)
