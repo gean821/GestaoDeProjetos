@@ -9,3 +9,5 @@
 - [Atividade 02 - Análise de Mercado](https://forms.gle/Fr4x2uUMVrx7eHXq5) (até 07/08)
 
 - [Atividade 03 - Matriz CSD (Certezas, Suposições e Dúvidas)](https://forms.gle/ECpGWcsz3iDW2xWcA) (até 12/08)
+
+- [Atividade 04 - Partes Interessadas](https://forms.gle/VCFcgzG6WwmMugQ17) (até 14/08)
