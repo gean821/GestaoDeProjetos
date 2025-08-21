@@ -11,4 +11,5 @@ Esse documento links úteis para a disciplina de Engenharia de Software
 - [Aula 01 - Conceitos de Software e Engenharia de Software](https://forms.gle/KxHZWNUJGJYCL4pF7)
 - [Aula 02 - Processo de Software](https://forms.gle/m4cpe4dsjg9U45Qa7)
 - [Aula 06 - Metodologias Ágeis e Scum](https://forms.gle/7b5nKpjiUXi8N7mH8)
+- [Aula 08 - Kanban, XP, e User Stories](https://forms.gle/QZVt6w9NGbuunN759)
 
