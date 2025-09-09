@@ -16,7 +16,7 @@
 
 A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
 
-O trabalho deve ser submetido por meio do formulário disponível até sexta-feira, dia **12/09/2025 às 23h59.**
+O trabalho deve ser submetido por meio do formulário disponível até sexta-feira, dia **14/09/2025 às 23h59.**
 
 
 #### Descrição
@@ -47,4 +47,17 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
     + Especificação de casos de uso
         * Entregar a especificação dos casos de uso (fluxo principal, alternativo, pré-condições e pós condições)
 
-- **Link para a entrega:** TBD
+- **Orientações para a entrega:**
+    + Ao concluirem a escrita da documentação do 1o Bimestre, gerem um arquivo PDF;
+    + Façam o updload desse arquivo para algum repositório (Google Drive, Github, etc.)
+    + Deem permissão de acesso ao arquivo. Se eu nãoo conseguir visualizar o documento, ele não vai ser corrigido.
+        * Se subirem no Github, certifiquem-se de que o repositório/arquivo está público.
+        * Se subirem no Google Drive, alterem a permissão para que qualquer um com o link visualize o documento.
+    + Gerem um link para o arquivo PDF.
+    + TESTEM O LINK ANTES DE MANDAR:
+        * Copiem o link que será enviado
+        * Colem em uma aba anônima
+        * Chequem ser conseguem visualizar/baixar o arquivo. 
+    + IMPORTANTE: Não vou aceitar trabalhos por e-mail e/ou enviados após as 23:59 do dia 14/09/2025 (Domingo)
+
+- **Link para a entrega:** [https://forms.gle/C5aoRHXjwsau8iMz9](https://forms.gle/C5aoRHXjwsau8iMz9)
