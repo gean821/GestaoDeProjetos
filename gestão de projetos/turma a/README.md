@@ -12,6 +12,8 @@
 
 - [Atividade 04 - Partes Interessadas](https://forms.gle/VCFcgzG6WwmMugQ17) (até 14/08)
 
+- [Atividade 05 - Priorização do Backlog](https://docs.google.com/spreadsheets/d/11C4NmbAgFnAYyDFWrj_VNcgaBYQUv6-PE2Wk7Xs9ugY/edit?usp=sharing)
+
 ### ENTREGA DO PROJETO - 1o Bimestre
 
 A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
