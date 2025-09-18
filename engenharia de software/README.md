@@ -21,3 +21,10 @@ Esse documento links úteis para a disciplina de Engenharia de Software
     + INDIVIDUAL
     + TODOS OS MATERIAIS USADOS EM AULA SÃO PERMITIDOS. IAs (ChatGPT, Gemini, e similares) SÃO **PROÍBIDAS.** 
 
+
+- [ATIVIDADE AVALIATIVA 02 (18/09/2025)](https://forms.gle/4wrPvBKyvsDKbWZo9)
+    + ENTREGA ATÉ HOJE AO FIM DA AULA
+    + INDIVIDUAL
+    + TODOS OS MATERIAIS USADOS EM AULA SÃO PERMITIDOS. IAs (ChatGPT, Gemini, e similares) SÃO **PROÍBIDAS.** 
+
+
