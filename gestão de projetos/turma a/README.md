@@ -5,7 +5,7 @@
 
 <details>
 
-<summary>Atividades 1o Bimestre</summary>
+<summary>### Atividades 1o Bimestre</summary>
 
 - ~~[Atividade 01 - Termo de Abertura do Projeto](https://docs.google.com/document/d/1KHxIIk8rwePVvjbybt8u-1mU5BGDDoq4/edit?usp=sharing&rtpof=true&sd=true) (até 31/07)~~
 
