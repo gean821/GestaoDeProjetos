@@ -118,6 +118,7 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
         * Se subirem no Github, certifiquem-se de que o repositório/arquivo está público.
         * Se subirem no Google Drive, alterem a permissão para que qualquer um com o link visualize o documento.
     + Gerem um link para o arquivo PDF.
+    + Links locais (por exemplo C:/users/... NÃO FUNCIONAM)
     + TESTEM O LINK ANTES DE MANDAR:
         * Copiem o link que será enviado
         * Colem em uma aba anônima
