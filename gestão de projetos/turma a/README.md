@@ -67,3 +67,62 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
 
 - **Link para a entrega:** [https://forms.gle/C5aoRHXjwsau8iMz9](https://forms.gle/C5aoRHXjwsau8iMz9)   
 </details>
+
+___
+
+<details>
+
+<summary>Atividades 2o Bimestre</summary>
+
+- Atividade 06 - Resumo do Pitch (até 19/10) (valor 0,5)
+- Atividade 07 - Slides do Pitch (até 26/10) (valor 0,5)
+- Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 0,5)
+
+</details>
+
+<details>
+<summary>ENTREGA DO PROJETO - 2o Bimestre</summary>
+
+A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
+
+O trabalho deve ser submetido por meio do formulário disponível até sexta-feira, dia **21/11/2025 às 23h59.**
+
+
+#### Descrição
+
+- **Entregas**: Em cada bimestre serão abordados alguns temas do gerenciamento de projetos. Em cada bimestre teremos entregas referentes aos temas abordados. Abaixo a lista de artefatos que devem ser entregues para o 2o Bimestre. O valor deste trabalho é 1,5.
+
+- **Premissas**
+    + O trabalho entregue deverá seguir as normas institucionais;
+    + O mesmo arquivo que foi entregue no 1o bimestre deve ser atualizado com os novos conteúdos;
+    + O trabalho deverá ser entregue um um documento PDF redigidos em processador de textos (word, libreoffice, google docs)
+    + Entrega 1 documento por time;
+
+- **Items a serem entregues**
+    + Sequenciamento das Atividades (utilizando análise de precedencia; apenas para o módulo principal)
+    + Análise do Caminho Crítico (apenas para o módulo principal)
+    + Cronograma
+        * Utilizar Diagrama de Gantt
+    + Timeline
+        * Indicar fases, marcos e entregas
+    + Diagrama de Classes
+        * Modelar o Diagrama de Classes para todo o sistema
+    + Análise de Qualidade (ISO 25010)
+    + Estimativa de Custo do Projeto
+        * Estimar o custo de 3 módulos do sistema utilizando Pontos de Função
+
+- **Orientações para a entrega:**
+    + Ao concluirem a escrita da documentação do 1o Bimestre, gerem um arquivo PDF;
+    + Façam o updload desse arquivo para algum repositório (Google Drive, Github, etc.)
+    + Deem permissão de acesso ao arquivo. Se eu nãoo conseguir visualizar o documento, ele não vai ser corrigido.
+        * Se subirem no Github, certifiquem-se de que o repositório/arquivo está público.
+        * Se subirem no Google Drive, alterem a permissão para que qualquer um com o link visualize o documento.
+    + Gerem um link para o arquivo PDF.
+    + TESTEM O LINK ANTES DE MANDAR:
+        * Copiem o link que será enviado
+        * Colem em uma aba anônima
+        * Chequem ser conseguem visualizar/baixar o arquivo. 
+    + IMPORTANTE: Não vou aceitar trabalhos por e-mail e/ou enviados após as 23:59 do dia 21/11/2025 (Sexta-Feira)
+
+- **Link para a entrega:** TBD   
+</details>
