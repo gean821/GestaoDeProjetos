@@ -3,16 +3,21 @@
 ### Links gerais
 - [Link para o formulário de informações do projeto](https://forms.gle/6FYnswDrG8jQ95Ly8)
 
-### Atividades
-- [Atividade 01 - Termo de Abertura do Projeto](https://docs.google.com/document/d/1KHxIIk8rwePVvjbybt8u-1mU5BGDDoq4/edit?usp=sharing&rtpof=true&sd=true) (até 31/07)
+<details>
 
-- [Atividade 02 - Análise de Mercado](https://forms.gle/Fr4x2uUMVrx7eHXq5) (até 07/08)
+<summary>Atividades 1o Bimestre</summary>
 
-- [Atividade 03 - Matriz CSD (Certezas, Suposições e Dúvidas)](https://forms.gle/ECpGWcsz3iDW2xWcA) (até 12/08)
+- ~~[Atividade 01 - Termo de Abertura do Projeto](https://docs.google.com/document/d/1KHxIIk8rwePVvjbybt8u-1mU5BGDDoq4/edit?usp=sharing&rtpof=true&sd=true) (até 31/07)~~
 
-- [Atividade 04 - Partes Interessadas](https://forms.gle/VCFcgzG6WwmMugQ17) (até 14/08)
+- ~~[Atividade 02 - Análise de Mercado](https://forms.gle/Fr4x2uUMVrx7eHXq5) (até 07/08)~~
 
-- [Atividade 05 - Priorização do Backlog](https://docs.google.com/spreadsheets/d/11C4NmbAgFnAYyDFWrj_VNcgaBYQUv6-PE2Wk7Xs9ugY/edit?usp=sharing)
+- ~~[Atividade 03 - Matriz CSD (Certezas, Suposições e Dúvidas)](https://forms.gle/ECpGWcsz3iDW2xWcA) (até 12/08)~~
+
+- ~~[Atividade 04 - Partes Interessadas](https://forms.gle/VCFcgzG6WwmMugQ17) (até 14/08)~~
+
+- ~~[Atividade 05 - Priorização do Backlog](https://docs.google.com/spreadsheets/d/11C4NmbAgFnAYyDFWrj_VNcgaBYQUv6-PE2Wk7Xs9ugY/edit?usp=sharing)~~
+
+</details>
 
 ### ENTREGA DO PROJETO - 1o Bimestre
 
