@@ -74,7 +74,7 @@ ___
 
 <summary>Atividades 2o Bimestre</summary>
 
-- - [Atividade 06 - Cronogrma](https://forms.gle/tw61qzdCvLnxm67k6) (até 07/10)
+- [Atividade 06 - Cronogrma](https://forms.gle/tw61qzdCvLnxm67k6) (até 07/10)
     * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)
 - Atividade 07 - Resumo do Pitch (até 19/10) (valor 0,5)
 - Atividade 08 - Slides do Pitch (até 26/10) (valor 0,5)
