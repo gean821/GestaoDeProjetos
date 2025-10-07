@@ -12,6 +12,9 @@
 
 - [Atividade 04 - Identificação das Partes Interessadas](https://forms.gle/ZNkHpdwLnxz6Xwgb9) (até 12/08)
 
+- [Cronogrma](https://forms.gle/tw61qzdCvLnxm67k6) (até 07/10)
+    * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)
+
 
 ### ENTREGA DO PROJETO - 1o Bimestre
 
