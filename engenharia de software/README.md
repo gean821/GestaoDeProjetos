@@ -27,4 +27,9 @@ Esse documento links úteis para a disciplina de Engenharia de Software
     + INDIVIDUAL
     + TODOS OS MATERIAIS USADOS EM AULA SÃO PERMITIDOS. IAs (ChatGPT, Gemini, e similares) SÃO **PROÍBIDAS.** 
 
+----
+
+- Aula 13 - Diagrama de Casos de Uso
+    + Responder formulário após a aula acessando esse [link](https://docs.google.com/forms/d/e/1FAIpQLSf1_1_dYEMOIZXeAeyicDJus06SjcxAD8HuVLq-OTnAaWVprg/viewform?fbzx=6513291281139233376)
+
 
