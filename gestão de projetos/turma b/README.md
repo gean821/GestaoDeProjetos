@@ -12,8 +12,15 @@
 
 - [Atividade 04 - Identificação das Partes Interessadas](https://forms.gle/ZNkHpdwLnxz6Xwgb9) (até 12/08)
 
-- [Cronogrma](https://forms.gle/tw61qzdCvLnxm67k6) (até 07/10)
-    * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)
+- [Cronogrma](https://forms.gle/tw61qzdCvLnxm67k6) (até 13/10)
+    * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)                                               
+    * Finalizar tabela com atividades
+    * Definir as dependências de todas as atividades (Aula 12, Slide 23)
+    * Estimar duração de cada atividade com PERT (Aula 12, Slide 36)
+    * Construir diagrama de Gantt (Aula 13)
+    * Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
+    * Atividade vale 0,5 pontos da parte prática da disciplina
+    * Para a entrega desse trabalho, utilize o link: https://forms.gle/WB9fCu2RxaTpabPN9
 
 
 ### ENTREGA DO PROJETO - 1o Bimestre
