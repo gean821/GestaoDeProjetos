@@ -74,8 +74,15 @@ ___
 
 <summary>Atividades 2o Bimestre</summary>
 
-- [Atividade 06 - Cronogrma](https://forms.gle/tw61qzdCvLnxm67k6) (até 07/10)
-    * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)
+- Atividade 06 - Cronogrma
+    * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)                                               
+    * Finalizar tabela com atividades
+    * Definir as dependências de todas as atividades (Aula 12, Slide 23)
+    * Estimar duração de cada atividade com PERT (Aula 12, Slide 36)
+    * Construir diagrama de Gantt (Aula 13)
+    * Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
+    * Atividade vale 0,5 pontos da parte prática da disciplina
+    * Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)
 - Atividade 07 - Resumo do Pitch (até 19/10) (valor 0,5)
 - Atividade 08 - Slides do Pitch (até 26/10) (valor 0,5)
 - Atividade 09 - Apresentação do Pitch (28/10 e 30/10) (valor: 0,5)
