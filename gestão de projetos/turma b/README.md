@@ -75,7 +75,7 @@ ___
 
 <summary>Atividades 2o Bimestre</summary>
 
-- Atividade 06 - Cronogrma
+- Atividade 06 - Cronogrma (Até 17/10)
     * Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)                                               
     * Finalizar tabela com atividades
     * Definir as dependências de todas as atividades (Aula 12, Slide 23)
@@ -84,7 +84,9 @@ ___
     * Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
     * Atividade vale 0,5 pontos da parte prática da disciplina
     * Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)
+
 - Atividade 07 - Slides do Pitch (até 26/10) (valor 0,5)
+    + A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:
     + Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?
     + Objetivo: Como o projeto visa resolver o problema identificado?
     + Público alvo: Quem vai usar o projeto?
@@ -93,6 +95,7 @@ ___
     + Estado atual do projeto: O que já foi feito no projeto?
     + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
     + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
+    
 - Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 1,0)
 
 </details>
