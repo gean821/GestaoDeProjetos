@@ -95,8 +95,8 @@ ___
     + Estado atual do projeto: O que já foi feito no projeto?
     + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
     + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
-    
-- Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 1,0)
+
+- Atividade 08 - Apresentação do Pitch (27/10 e 28/10) (valor: 1,0)
 
 </details>
 
