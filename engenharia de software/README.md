@@ -29,7 +29,11 @@ Esse documento links úteis para a disciplina de Engenharia de Software
 
 ----
 
-- Aula 13 - Diagrama de Casos de Uso
+- Aula 14 - Atividade Diagrama de Casos de Uso
+    + Acessar o enunciado da Atividade clicando [nesse link](https://github.com/biazottoj/unicesumar-2025-2/blob/main/engenharia%20de%20software/atividades/Aula%2014%20-%20Atividade%20Casos%20de%20uso.pdf)
+    + Construir o Diagrama de Casos de Uso Utilizando o [draw.io](draw.io)
+    + Quando finalizado, exportar o diagrama para PDF (vou mostrar como fazer isso na sala)
     + Responder formulário após a aula acessando esse [link](https://docs.google.com/forms/d/e/1FAIpQLSf1_1_dYEMOIZXeAeyicDJus06SjcxAD8HuVLq-OTnAaWVprg/viewform?fbzx=6513291281139233376)
-
+    + Enviar o diagrama em PDF no formulário
+    + Essa atividade vale 0,5 EXTRA na parte prática da disciplina.
 
