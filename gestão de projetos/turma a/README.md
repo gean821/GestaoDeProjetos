@@ -83,9 +83,16 @@ ___
     * Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
     * Atividade vale 0,5 pontos da parte prática da disciplina
     * Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)
-- Atividade 07 - Resumo do Pitch (até 19/10) (valor 0,5)
-- Atividade 08 - Slides do Pitch (até 26/10) (valor 0,5)
-- Atividade 09 - Apresentação do Pitch (28/10 e 30/10) (valor: 0,5)
+- Atividade 07 - Slides do Pitch (até 26/10) (valor 0,5)
+    + Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?
+    + Objetivo: Como o projeto visa resolver o problema identificado?
+    + Público alvo: Quem vai usar o projeto?
+    + Escopo: Quais são as principais funcionalidades do projeto? Como elas se alinham ao problema e objetivo?
+    + Modelo de Negócio: como o projeto vai ser monetizado? 
+    + Estado atual do projeto: O que já foi feito no projeto?
+    + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
+    + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
+- Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 0,5)
 
 </details>
 
