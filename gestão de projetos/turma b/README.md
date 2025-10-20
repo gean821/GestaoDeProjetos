@@ -76,7 +76,7 @@ ___
 <summary>Atividades 2o Bimestre</summary>
 
 - ~~Atividade 06 - Cronogrma (Até 17/10)~~
-    * ~~ Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)~~                                            
+    * ~~Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)~~                                            
     * ~~Finalizar tabela com atividades~~
     * ~~Definir as dependências de todas as atividades (Aula 12, Slide 23)~~
     * ~~Estimar duração de cada atividade com PERT (Aula 12, Slide 36)~~
