@@ -75,15 +75,15 @@ ___
 
 <summary>Atividades 2o Bimestre</summary>
 
-- ~~ Atividade 06 - Cronogrma (Até 17/10) ~~
-    * ~~ Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)   ~~                                            
-    * ~~ Finalizar tabela com atividades
-    * ~~ Definir as dependências de todas as atividades (Aula 12, Slide 23)~~
-    * ~~ Estimar duração de cada atividade com PERT (Aula 12, Slide 36)~~
-    * ~~ Construir diagrama de Gantt (Aula 13)~~
-    * ~~ Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt~~
-    * ~~ Atividade vale 0,5 pontos da parte prática da disciplina~~
-    * ~~ Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)~~
+- ~~Atividade 06 - Cronogrma (Até 17/10)~~
+    * ~~ Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing)~~                                            
+    * ~~Finalizar tabela com atividades~~
+    * ~~Definir as dependências de todas as atividades (Aula 12, Slide 23)~~
+    * ~~Estimar duração de cada atividade com PERT (Aula 12, Slide 36)~~
+    * ~~Construir diagrama de Gantt (Aula 13)~~
+    * ~~Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt~~
+    * ~~Atividade vale 0,5 pontos da parte prática da disciplina~~
+    * ~~Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)~~
 
 - Atividade 7 - Diagrama de Classes (até 20/10):
     + Link para entrega: [https://forms.gle/YFXNMGb7kzysnnEd7](https://forms.gle/YFXNMGb7kzysnnEd7)
