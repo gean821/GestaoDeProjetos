@@ -85,6 +85,9 @@ ___
     * Atividade vale 0,5 pontos da parte prática da disciplina
     * Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)
 
+- Atividade 7 - Diagrama de Classes (até 20/10):
+    + Link para entrega: [https://forms.gle/YFXNMGb7kzysnnEd7](https://forms.gle/YFXNMGb7kzysnnEd7)
+
 - Atividade 07 - Slides do Pitch (até 26/10) (valor 0,5)
     + A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:
     + Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?
