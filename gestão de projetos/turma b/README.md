@@ -71,7 +71,7 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
 
 ___
 
-<details open>
+<details>
 
 <summary>Atividades 2o Bimestre</summary>
 
@@ -85,8 +85,8 @@ ___
     * ~~Atividade vale 0,5 pontos da parte prática da disciplina~~
     * ~~Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)~~
 
-- Atividade 7 - Diagrama de Classes (até 20/10):
-    + Link para entrega: [https://forms.gle/YFXNMGb7kzysnnEd7](https://forms.gle/YFXNMGb7kzysnnEd7)
+- ~~Atividade 7 - Diagrama de Classes (até 20/10)~~:
+    + ~~Link para entrega: [https://forms.gle/YFXNMGb7kzysnnEd7](https://forms.gle/YFXNMGb7kzysnnEd7)~~
 
 - Atividade 08 - Slides do Pitch (até 26/10) (valor 0,5)
     + A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:
@@ -98,8 +98,11 @@ ___
     + Estado atual do projeto: O que já foi feito no projeto?
     + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
     + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
+    + Link para a entrega dos slides: [https://forms.gle/nYifLLiiqWZ8eHVX7](https://forms.gle/nYifLLiiqWZ8eHVX7)
 
 - Atividade 09 - Apresentação do Pitch (27/10 e 28/10) (valor: 1,0)
+    + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
+    + Link para envio das sugestões: [https://forms.gle/TkKzWdJKfJvD5hYd6](https://forms.gle/TkKzWdJKfJvD5hYd6)
 
 </details>
 
