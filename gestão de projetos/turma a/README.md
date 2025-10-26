@@ -94,7 +94,7 @@ ___
     + Estado atual do projeto: O que já foi feito no projeto?
     + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
     + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
-    + Link par entrega: [https://forms.gle/EasHXEeNipmBaY7p7](https://forms.gle/EasHXEeNipmBaY7p7)
+    + Link para a entrega dos slides: [https://forms.gle/EasHXEeNipmBaY7p7](https://forms.gle/EasHXEeNipmBaY7p7)
 
 - Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 1,0)
     + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
@@ -102,7 +102,7 @@ ___
 
 </details>
 
-<details open>
+<details>
 <summary>ENTREGA DO PROJETO - 2o Bimestre</summary>
 
 A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
