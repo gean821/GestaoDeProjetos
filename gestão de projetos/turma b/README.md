@@ -71,7 +71,7 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
 
 ___
 
-<details>
+<details open>
 
 <summary>Atividades 2o Bimestre</summary>
 
@@ -106,7 +106,7 @@ ___
 
 </details>
 
-<details open>
+<details>
 <summary>ENTREGA DO PROJETO - 2o Bimestre</summary>
 
 A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
