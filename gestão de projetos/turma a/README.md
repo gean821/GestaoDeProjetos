@@ -94,8 +94,11 @@ ___
     + Estado atual do projeto: O que já foi feito no projeto?
     + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
     + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
+    + Link par entrega: [https://forms.gle/EasHXEeNipmBaY7p7](https://forms.gle/EasHXEeNipmBaY7p7)
 
 - Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 1,0)
+    + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
+    + Link para envio das sugestões: [https://forms.gle/sj8M5qYVZTZqjwLu8](https://forms.gle/sj8M5qYVZTZqjwLu8)
 
 </details>
 
