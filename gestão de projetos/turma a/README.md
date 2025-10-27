@@ -100,6 +100,17 @@ ___
     + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
     + Link para envio das sugestões: [https://forms.gle/sj8M5qYVZTZqjwLu8](https://forms.gle/sj8M5qYVZTZqjwLu8)
 
+- Ordem de Apresentação:
+    + Dia 1 - 28/10/2025
+        * Barber Bross
+        * Insight
+        * Docs Right Here
+        * Zenny
+    + Dia 2 - 30/10/2025
+        * TruckFlow
+        * Quem é o espião?
+        * Pagae
+        * CotaUp
 </details>
 
 <details>

@@ -104,6 +104,21 @@ ___
     + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
     + Link para envio das sugestões: [https://forms.gle/TkKzWdJKfJvD5hYd6](https://forms.gle/TkKzWdJKfJvD5hYd6)
 
+- Ordem de Apresentação:
+    + Dia 1 - 27/10/2025
+        * CatTheVision
+        * Agro Sync
+        * MyBuddy.
+        * FIIM
+        * Acertô
+        * S3A 
+    + Dia 2 - 28/10/2025
+        * BeachUp
+        * IdealComputer
+        * TaskManager
+        * Connect+
+        * EmpowerLearn           
+
 </details>
 
 <details>
