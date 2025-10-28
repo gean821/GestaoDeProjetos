@@ -102,16 +102,16 @@ ___
 
 - Ordem de Apresentação:
     + Dia 1 - 28/10/2025
-        * Barber Bross
-        * Insight
-        * Docs Right Here
-        * Zenny
+        * Barber Bross (19:10)
+        * Insight (19:30)
+        * Docs Right Here (19:50)
+        * Zenny (20:10)
     + Dia 2 - 30/10/2025
-        * TruckFlow
-        * Quem é o espião?
-        * Pagae
-        * CotaUp
-        * DataClick
+        * TruckFlow (19:00)
+        * Quem é o espião? (19:20)
+        * Pagae (19:40)
+        * CotaUp (20:00)
+        * DataClick (20:20)
 </details>
 
 <details>
