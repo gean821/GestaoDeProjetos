@@ -117,7 +117,8 @@ ___
         * IdealComputer (21:39)
         * TaskManager (21:52)
         * Connect+ (22:05)
-        * EmpowerLearn (22:18)            
+        * EmpowerLearn (22:18)
+    + Pasta com as apresentações (todos os grupos): [https://shorturl.at/dZQNG](https://shorturl.at/dZQNG)            
 
 </details>
 

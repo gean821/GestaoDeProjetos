@@ -112,6 +112,7 @@ ___
         * Pagae (19:40)
         * CotaUp (20:00)
         * DataClick (20:20)
+    + Pasta com as apresentações (todos os grupos): [https://shorturl.at/ifC1k](https://shorturl.at/ifC1k)
 </details>
 
 <details>
