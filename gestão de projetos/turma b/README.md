@@ -112,12 +112,12 @@ ___
         * FIIM
     + Dia 2 - 28/10/2025
         * Acertô (21:00)
-        * S3A (21:15)
-        * BeachUp (21:30)
-        * IdealComputer (21:45)
-        * TaskManager (22:00)
-        * Connect+ (22:15)
-        * EmpowerLearn             
+        * S3A (21:13)
+        * BeachUp (21:26)
+        * IdealComputer (21:39)
+        * TaskManager (21:52)
+        * Connect+ (22:05)
+        * EmpowerLearn (22:18)            
 
 </details>
 
