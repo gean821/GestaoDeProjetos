@@ -110,14 +110,14 @@ ___
         * Agro Sync
         * MyBuddy.
         * FIIM
-        * Acertô
-        * S3A 
     + Dia 2 - 28/10/2025
-        * BeachUp
-        * IdealComputer
-        * TaskManager
-        * Connect+
-        * EmpowerLearn           
+        * Acertô (21:00)
+        * S3A (21:15)
+        * BeachUp (21:30)
+        * IdealComputer (21:45)
+        * TaskManager (22:00)
+        * Connect+ (22:15)
+        * EmpowerLearn             
 
 </details>
 
