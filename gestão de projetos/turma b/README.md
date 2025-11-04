@@ -71,7 +71,7 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
 
 ___
 
-<details open>
+<details>
 
 <summary>Atividades 2o Bimestre</summary>
 
@@ -88,41 +88,41 @@ ___
 - ~~Atividade 7 - Diagrama de Classes (até 20/10)~~:
     + ~~Link para entrega: [https://forms.gle/YFXNMGb7kzysnnEd7](https://forms.gle/YFXNMGb7kzysnnEd7)~~
 
-- Atividade 08 - Slides do Pitch (até 26/10) (valor 0,5)
-    + A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:
-    + Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?
-    + Objetivo: Como o projeto visa resolver o problema identificado?
-    + Público alvo: Quem vai usar o projeto?
-    + Escopo: Quais são as principais funcionalidades do projeto? Como elas se alinham ao problema e objetivo?
-    + Modelo de Negócio: como o projeto vai ser monetizado? 
-    + Estado atual do projeto: O que já foi feito no projeto?
-    + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
-    + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
-    + Link para a entrega dos slides: [https://forms.gle/nYifLLiiqWZ8eHVX7](https://forms.gle/nYifLLiiqWZ8eHVX7)
+- ~~Atividade 08 - Slides do Pitch (até 26/10) (valor 0,5)~~ 
+    + ~~A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:~~ 
+    + ~~Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?~~ 
+    + ~~Objetivo: Como o projeto visa resolver o problema identificado?~~ 
+    + ~~Público alvo: Quem vai usar o projeto?~~ 
+    + ~~Escopo: Quais são as principais funcionalidades do projeto? Como elas se alinham ao problema e objetivo?~~ 
+    + ~~Modelo de Negócio: como o projeto vai ser monetizado? ~~ 
+    + ~~Estado atual do projeto: O que já foi feito no projeto?~~ 
+    + ~~Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?~~ 
+    + ~~Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?~~ 
+    + ~~Link para a entrega dos slides: [https://forms.gle/nYifLLiiqWZ8eHVX7](https://forms.gle/nYifLLiiqWZ8eHVX7)~~ 
 
-- Atividade 09 - Apresentação do Pitch (27/10 e 28/10) (valor: 1,0)
-    + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
-    + Link para envio das sugestões: [https://forms.gle/TkKzWdJKfJvD5hYd6](https://forms.gle/TkKzWdJKfJvD5hYd6)
+- ~~Atividade 09 - Apresentação do Pitch (27/10 e 28/10) (valor: 1,0)
+    + ~~Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.~~
+    + ~~Link para envio das sugestões: [https://forms.gle/TkKzWdJKfJvD5hYd6](https://forms.gle/TkKzWdJKfJvD5hYd6)~~
 
-- Ordem de Apresentação:
-    + Dia 1 - 27/10/2025
-        * CatTheVision
-        * Agro Sync
-        * MyBuddy.
-        * FIIM
-    + Dia 2 - 28/10/2025
-        * Acertô (21:00)
-        * S3A (21:13)
-        * BeachUp (21:26)
-        * IdealComputer (21:39)
-        * TaskManager (21:52)
-        * Connect+ (22:05)
-        * EmpowerLearn (22:18)
-    + Pasta com as apresentações (todos os grupos): [https://shorturl.at/dZQNG](https://shorturl.at/dZQNG)            
+- ~~Ordem de Apresentação:~~
+    + ~~Dia 1 - 27/10/2025~~
+        * ~~CatTheVision~~
+        * ~~Agro Sync~~
+        * ~~MyBuddy.~~
+        * ~~FIIM~~
+    + ~~Dia 2 - 28/10/2025~~
+        * ~~Acertô (21:00)~~
+        * ~~S3A (21:13)~~
+        * ~~BeachUp (21:26)~~
+        * ~~IdealComputer (21:39)~~
+        * ~~TaskManager (21:52)~~
+        * ~~Connect+ (22:05)~~
+        * ~~EmpowerLearn (22:18)~~
+    + ~~Pasta com as apresentações (todos os grupos): [https://shorturl.at/dZQNG](https://shorturl.at/dZQNG)~~            
 
 </details>
 
-<details>
+<details open>
 <summary>ENTREGA DO PROJETO - 2o Bimestre</summary>
 
 A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
@@ -149,7 +149,6 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
         * Indicar fases, marcos e entregas
     + Diagrama de Classes
         * Modelar o Diagrama de Classes para todo o sistema
-    + Análise de Qualidade (ISO 25010)
     + Estimativa de Custo do Projeto
         * Estimar o custo de 3 módulos do sistema utilizando Pontos de Função
 

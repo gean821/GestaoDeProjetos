@@ -70,7 +70,7 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
 
 ___
 
-<details open>
+<details>
 
 <summary>Atividades 2o Bimestre</summary>
 
@@ -84,35 +84,35 @@ ___
     * ~~Atividade vale 0,5 pontos da parte prática da disciplina~~
     * ~~Para a entrega desse trabalho, utilize o link: [https://forms.gle/tw61qzdCvLnxm67k6](https://forms.gle/tw61qzdCvLnxm67k6)~~
 
-- Atividade 07 - Slides do Pitch (até 26/10) (valor 0,5)
-    + A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:
-    + Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?
-    + Objetivo: Como o projeto visa resolver o problema identificado?
-    + Público alvo: Quem vai usar o projeto?
-    + Escopo: Quais são as principais funcionalidades do projeto? Como elas se alinham ao problema e objetivo?
-    + Modelo de Negócio: como o projeto vai ser monetizado? 
-    + Estado atual do projeto: O que já foi feito no projeto?
-    + Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?
-    + Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?
-    + Link para a entrega dos slides: [https://forms.gle/EasHXEeNipmBaY7p7](https://forms.gle/EasHXEeNipmBaY7p7)
+- ~~Atividade 07 - Slides do Pitch (até 26/10) (valor 0,5)~~
+    + ~~A apresentação deve ter entre 10 - 12 minutos (10 minutos é o mínimo) e deve conter os items abaixo:~~
+    + ~~Problema/Motivação: Qual a dor/oportunidade de negócio que motivou o projeto?~~
+    + ~~Objetivo: Como o projeto visa resolver o problema identificado?~~
+    + ~~Público alvo: Quem vai usar o projeto?~~
+    + ~~Escopo: Quais são as principais funcionalidades do projeto? Como elas se alinham ao problema e objetivo?~~
+    + ~~Modelo de Negócio: como o projeto vai ser monetizado? ~~
+    + ~~Estado atual do projeto: O que já foi feito no projeto?~~
+    + ~~Próximos passos: Qual o planejamento da equipe para o próximo ano? Como expandir o projeto?~~
+    + ~~Principais desafios: Quais problemas vem sendo enfrentados pela equipe? No que precisam de suporte?~~
+    + ~~Link para a entrega dos slides: [https://forms.gle/EasHXEeNipmBaY7p7](https://forms.gle/EasHXEeNipmBaY7p7)~~
 
-- Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 1,0)
-    + Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.
-    + Link para envio das sugestões: [https://forms.gle/sj8M5qYVZTZqjwLu8](https://forms.gle/sj8M5qYVZTZqjwLu8)
+- ~~Atividade 08 - Apresentação do Pitch (28/10 e 30/10) (valor: 1,0)
+    + ~~Como discutido em sala, cada aluno precisa encaminhar pelo menos uma sugestão para CADA apresentação.~~
+    + ~~Link para envio das sugestões: [https://forms.gle/sj8M5qYVZTZqjwLu8](https://forms.gle/sj8M5qYVZTZqjwLu8)~~
 
-- Ordem de Apresentação:
-    + Dia 1 - 28/10/2025
-        * Barber Bross (19:10)
-        * Insight (19:30)
-        * Docs Right Here (19:50)
-        * Zenny (20:10)
-    + Dia 2 - 30/10/2025
-        * TruckFlow (19:00)
-        * Quem é o espião? (19:20)
-        * Pagae (19:40)
-        * CotaUp (20:00)
-        * DataClick (20:20)
-    + Pasta com as apresentações (todos os grupos): [https://shorturl.at/ifC1k](https://shorturl.at/ifC1k)
+- ~~Ordem de Apresentação:~~
+    + ~~Dia 1 - 28/10/2025~~
+        * ~~Barber Bross (19:10)~~
+        * ~~Insight (19:30)~~
+        * ~~Docs Right Here (19:50)~~
+        * ~~Zenny (20:10)~~
+    + ~~Dia 2 - 30/10/2025~~
+        * ~~TruckFlow (19:00)~~
+        * ~~Quem é o espião? (19:20)~~
+        * ~~Pagae (19:40)~~
+        * ~~CotaUp (20:00)~~
+        * ~~DataClick (20:20)~~
+    + ~~Pasta com as apresentações (todos os grupos): [https://shorturl.at/ifC1k](https://shorturl.at/ifC1k)~~
 </details>
 
 <details>
@@ -142,7 +142,6 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
         * Indicar fases, marcos e entregas
     + Diagrama de Classes
         * Modelar o Diagrama de Classes para todo o sistema
-    + Análise de Qualidade (ISO 25010)
     + Estimativa de Custo do Projeto
         * Estimar o custo de 3 módulos do sistema utilizando Pontos de Função
 
